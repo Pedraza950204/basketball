@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "673a113ad6058b45f3d0590d"
+  },
+  "nombre": "Luz Natalia",
+  "apellido": "Sánchez",
+  "email": "natalia.sanchez@example.com",
+  "estado": true,
+  "usuarioCreacion": "admin",
+  "usuarioActulizacion": "admin",
+  "fechaHoraCreacion": "Sun Nov 17 10:52:26 COT 2024",
+  "fechaHoraAcualizacion": "Sun Nov 17 10:53:36 COT 2024",
+  "_class": "com.example.basketball.model.Usuarios"
+}]
